@@ -5,15 +5,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Enviando Valores do DOM</title>
-  <script src="index.js"></script>
+  <script src="script.js" defer></script>
 </head>
 
 <body>
-  <h1>Enviando valores do DOM para o JavaScript .Test Git</h1>
+  <h1>Trabalhando com eventos no Javascript</h1>
   <hr>
-
   <h2>Cadastrar-se</h2>
-
   <section>
     <label for="username"> Nome do Usuário</label>
     <input type="text" name="username" id="username">
@@ -24,7 +22,9 @@
     <label for="passwordConfirm"> Confirme sua senha</label>
     <input type="password" name="passwordConfirm" id="passwordConfirm">
     <br>
-    <button onclick="register(this.parentNode)">Registrar</button>
+    <button id="register-button">Registrar</button>
+    <button onclick="removeListener()">Remover Event Listener</button>
+
   </section>
 </body>
 
