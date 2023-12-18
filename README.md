@@ -12,8 +12,6 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
    - Códigos
    - Exercícios
    - Projetos
-   - ![HTML5](images/html5.png)
-   - ![CSS3](images/css3.png)
 
 ### Fundamentos II
 1. JavaScript 3: DOM
@@ -25,8 +23,6 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
    - Códigos
    - Exercícios
    - Projetos
-   - ![JavaScript](images/javascript.png)
-   - ![TypeScript](images/typescript.png)
 
 ### Desenvolvimento Front-End
 1. CSS Moderno: Responsividade e Layouts Dinâmicos
@@ -38,8 +34,6 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
    - Códigos
    - Exercícios
    - Projetos
-   - ![ReactJS](images/react.png)
-   - ![Bootstrap](images/bootstrap.png)
 
 ### Desenvolvimento Back-End
 1. Backend com Node.js e Express
@@ -48,8 +42,6 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
    - Códigos
    - Exercícios
    - Projetos
-   - ![Node.js](images/nodejs.png)
-   - ![MongoDB](images/mongodb.png)
 
 ---
 
@@ -69,4 +61,4 @@ Para dúvidas, sugestões ou apenas para bater um papo sobre programação, sint
 
 ---
 
-**Happy coding! 😊**
+**NEVER SETTLE! 😊**
