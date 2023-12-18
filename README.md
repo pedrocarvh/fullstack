@@ -12,14 +12,10 @@ Bem-vindo ao meu repositório de estudos! Aqui você encontrará códigos das au
 
 Cada pasta possui seu próprio README, proporcionando detalhes específicos sobre o conteúdo. Explore à vontade!
 
-## 🌐 Como Contribuir
-
-Atualmente, não estou aceitando contribuições diretas neste repositório, pois é destinado ao armazenamento pessoal de meus estudos.
-
 ## 📬 Contato
 
-Para dúvidas, sugestões ou apenas para bater um papo sobre programação, sinta-se à vontade para [me contatar](mailto:seu-email@example.com).
+Para dúvidas, sugestões ou apenas para bater um papo sobre programação, sinta-se à vontade para [me contatar](mailto:pedrocarvalho.snk@gmail.com).
 
 ---
 
-**Happy coding! 😊**
+**Never Settle! 😊**
