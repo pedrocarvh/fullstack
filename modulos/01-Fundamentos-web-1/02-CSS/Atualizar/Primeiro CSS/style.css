@@ -1,0 +1,29 @@
+h1{
+  color: #9347EB;
+  font-family: Cambria;
+  background-color: rgb(34, 233, 93);
+
+}
+h2{
+  color: #ffffff;
+  font-family: Cambria;
+  border: 6px inset cadetblue;
+}
+
+li{
+  color: rgba(255, 136, 0, 0.76);
+  font-size: 18px;
+  font-family:-apple-systemSans;
+}
+
+.one{
+  color: rgba(255, 219, 14, 0.76);
+  font-size: 18px;
+  font-family:Arial;
+}
+
+body{
+  background-image:url("https://live.staticflickr.com/65535/51828440767_70b3e3f159_b.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
