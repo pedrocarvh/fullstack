@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
 
 ### [ Fundamentos I 🧠](https://github.com/pedrocarvh/fullstack/tree/main/modulos/01-Fundamentos-web-1)
 
-1. HTML5
+1. [HTML5](https://github.com/pedrocarvh/fullstack/tree/main/modulos/01-Fundamentos-web-1/01-HTML/Atualizar)
 2. CSS3
 3. JavaScript 1: Introdução à Linguagem
 4. JavaScript 2: Estruturas de Dados e Funções
