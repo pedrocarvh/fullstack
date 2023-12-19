@@ -53,7 +53,7 @@ Cada pasta e subpasta possui seu próprio README, proporcionando detalhes espec�
 
 ## 📬 Contato
 
-Para dúvidas, sugestões ou apenas para bater um papo sobre programação, sinta-se à vontade para [me contatar](mailto:seu-email@example.com).
+Para dúvidas, sugestões ou apenas para bater um papo sobre programação, sinta-se à vontade para [me contatar](mailto:pedrocarvalho.snk@gmail.com).
 
 ---
 
