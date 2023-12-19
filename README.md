@@ -4,7 +4,8 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
 
 ## Estrutura do Projeto
 
-### Fundamentos I 🧠
+### Fundamentos I 🧠 [01-Fundamentos-web-1](https://github.com/pedrocarvh/fullstack/tree/main/modulos/01-Fundamentos-web-1)
+
 1. HTML5
 2. CSS3
 3. JavaScript 1: Introdução à Linguagem
