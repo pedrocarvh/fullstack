@@ -10,8 +10,6 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
 2. [CSS3](https://github.com/pedrocarvh/fullstack/tree/main/modulos/01-Fundamentos-web-1/02-CSS/Atualizar)
 3. [JavaScript 1: Introdução à Linguagem](https://github.com/pedrocarvh/fullstack/tree/main/modulos/01-Fundamentos-web-1/03-JS-Modulo-1-introducao)
 4. [JavaScript 2: Estruturas de Dados e Funções](https://github.com/pedrocarvh/fullstack/tree/main/modulos/01-Fundamentos-web-1/04-JS-Modulo-2-estruturas)
-5. [Typescript](https://github.com/pedrocarvh/fullstack/tree/main/modulos/01-Fundamentos-web-1)
-6. [Git e GitHub](https://github.com/pedrocarvh/fullstack/tree/main/modulos/01-Fundamentos-web-1)
    - 📂 Códigos
    - 📝 Exercícios
    - 🚀 Projetos
