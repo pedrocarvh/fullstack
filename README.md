@@ -33,7 +33,7 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
 3. Bootstrap
 4. ReactJS
 5. Next.js
-6. Bulma (extra)*
+6. Bulma
    - 📂 Códigos
    - 📝 Exercícios
    - 🚀 Projetos
@@ -47,8 +47,6 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
    - 🚀 Projetos
 
 ---
-
-**Observação:** Pastas marcadas com '*' são tópicos adicionais ou extras.
 
 ## 🚧 Como Navegar
 
