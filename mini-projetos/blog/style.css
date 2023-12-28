@@ -1,0 +1,36 @@
+body {
+  background: black;
+  font-size: 1.6rem;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+header{
+  background-color: #17171A;
+}
+
+.principal{
+  background-color: #121214;
+}
+
+.post{
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 50px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #E07B67;
+  border-radius: 5px;
+}
+
+.text-date{
+  color: #E07B67;
+}
+
+.title-post{
+  color: #FFFFDA
+}
+
+.text-post{
+  color: #AFABB6;
+}
+
