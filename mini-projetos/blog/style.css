@@ -1,36 +1,140 @@
+*{
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+html{
+  background-color: #121214;
+}
+
 body {
-  background: black;
   font-size: 1.6rem;
   font-family: 'Space Grotesk', sans-serif;
 }
 
 header{
   background-color: #17171A;
+  padding-top: 50px;
 }
 
 .principal{
+  padding-top: 10px;
   background-color: #121214;
 }
 
 .post{
-  padding-left: 10px;
-  padding-right: 10px;
-  margin: 50px;
+  background-color: #17171A;
+  padding: 30px;
+  margin: 60px;
   border-style: solid;
   border-width: 1px;
   border-color: #E07B67;
   border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-date{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .text-date{
   color: #E07B67;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 .title-post{
-  color: #FFFFDA
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #FFFFDA;
+  font-size: 16px;
+  font-weight: bold;
+
 }
 
 .text-post{
   color: #AFABB6;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.div-header{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  padding: 20px;
+  color: #E07B67;
+}
+
+.span1{
+  color: #080100;
+  
+}
+.span2{
+  color: #EA1D17;
+}
+
+.div-header h1{
+  color: rgb(255, 255, 255);
+}
+
+.input-pesquisar{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  padding-top: 20px;
+  padding-bottom: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+input{
+  width: 87%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  border-color: #252529;
+  background-color: #17171A;
+  font-size: 18px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+
+
+
+
+
+.heart {
+  margin: 17px;
+  background-color: rgb(255, 255, 255);
+  height: 17px;
+  transform: rotate(-45deg);
+  width: 17px;
+  position: relative;
+}
+
+.heart:before,
+.heart:after {
+  content: "";
+  background-color: rgb(255, 255, 255);
+  border-radius:50%;
+  height: 17px;
+  position: absolute;
+  width: 17px;
+}
+
+.heart:before {
+  top: -9px;
+}
+
+.heart:after {
+  left: 9px;
 }
 
