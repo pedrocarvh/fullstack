@@ -1,5 +1,7 @@
 # Projetos
 
+##Repostório contém os desafios de 31 dias da OneBitCode, aqui vou salvar todos os desafios resolvidos, com seus textes e explicações do que foi feito.
+
 Lista de projetos:
 
 - [Desafio 1](https://github.com/pedrocarvh/fullstack/tree/main/desafiosJS/desafio-1)
