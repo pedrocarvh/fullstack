@@ -2,7 +2,12 @@
 
 Lista de projetos:
 
-- [Blog](https://github.com/seu-usuario/projeto-a)
-- [Calculadora](https://github.com/pedrocarvh/calculator)
-- [Jogo da Velha](https://github.com/pedrocarvh/jogo-da-velha)
-- [Tic Tac Toe ](https://github.com/seu-usuario/projeto-c)
+- [Desafio 1](https://github.com/pedrocarvh/fullstack/tree/main/desafiosJS/desafio-1)
+Função para calcular média de alunos - Funciona com qualquer quantidade de alunos ou turmas
+Escreva uma função que recebe um número qualquer de números inteiros e como argumentos e retorne a média aritmética entre eles.
+
+- [Desafio 1.1](https://github.com/pedrocarvh/fullstack/tree/main/desafiosJS/desafio-1.1)
+  Mesma função porém fiz uma prática pra reforçar, nessa função ela realição a media ponderada de qualquer quantidade de notas e pesos.
+
+
+
