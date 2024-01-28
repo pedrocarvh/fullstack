@@ -18,7 +18,7 @@ Escreva uma função que recebe um número qualquer de números inteiros e como 
     - `script.js` ([Solução do desafio do dia 1](https://github.com/pedrocarvh/fullstack/tree/main/desafiosJS/desafio-1))
   - **/Desafio-02**
     - `README.md`
-    - `solucao.py`
+    - `script.js`
   - ...
 - [CONTRIBUTING.md](CONTRIBUTING.md) (Guia para contribuições)
 - [CHANGELOG.md](CHANGELOG.md) (Registro de alterações no repositório)
