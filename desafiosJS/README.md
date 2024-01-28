@@ -11,14 +11,14 @@ Cada dia, um novo desafio será publicado na pasta correspondente. Os participan
 ## Organização do Repositório
 
 - **/Desafios**
-  - **/Dia-01**
+  - **/Desafio-01**
     - `README.md` (Função para calcular média de alunos - Funciona com qualquer quantidade de alunos ou turmas
 Escreva uma função que recebe um número qualquer de números inteiros e como argumentos e retorne a média aritmética entre eles.
 )
     - `script.js` ([Solução do desafio do dia 1](https://github.com/pedrocarvh/fullstack/tree/main/desafiosJS/desafio-1))
-  - **/Dia-02**
-    - `README.md` (Descrição do desafio do dia 2)
-    - `solucao.py` (Solução do desafio do dia 2)
+  - **/Desafio-02**
+    - `README.md`
+    - `solucao.py`
   - ...
 - [CONTRIBUTING.md](CONTRIBUTING.md) (Guia para contribuições)
 - [CHANGELOG.md](CHANGELOG.md) (Registro de alterações no repositório)
