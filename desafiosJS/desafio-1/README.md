@@ -12,6 +12,7 @@ Arrays e Matemática
 ## Tarefa
 
 - [OK] Escreva uma função que recebe um número qualquer de números inteiros como argumentos e retorne a média aritmética entre eles.
+- Desafio 1.1. - Funciona para média ponderada
 
 ## Instruções
 
