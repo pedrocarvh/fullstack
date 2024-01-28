@@ -7,6 +7,8 @@ Este programa será incorporádo em seu sistema princiap portanto você precisa 
 
 No entanto, a função deve ser capaz de funcionar com qualquer número de alunos ou turmas;
 
+Arrays e Matemática
+
 ## Tarefa
 
 - [OK] Escreva uma função que recebe um número qualquer de números inteiros como argumentos e retorne a média aritmética entre eles.
