@@ -16,7 +16,7 @@ Bem-vindo ao meu repositório de estudos! Aqui estão os códigos das aulas, exe
 
 ### [ Fundamentos II 🚀](https://github.com/pedrocarvh/fullstack/tree/main/modulos/02-Fundamentos-web-2/)
 1. [JavaScript 3: DOM](https://github.com/pedrocarvh/fullstack/tree/main/modulos/02-Fundamentos-web-2/01-JS-M%C3%B3dulo-3-DOM)
-2. [JavaScript 4: JS Moderno]()
+2. [JavaScript 4: JS Moderno](https://github.com/pedrocarvh/fullstack/tree/main/modulos/02-Fundamentos-web-2/02-JS-M%C3%B3dulo-4-javascript-moderno)
 3. [JavaScript 5: POO]()
 4. [JavaScript 5: Tópicos Avançados]()
 5. [TypeScript]()
