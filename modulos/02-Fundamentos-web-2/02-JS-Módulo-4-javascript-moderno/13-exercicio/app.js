@@ -3,8 +3,7 @@ var media = (...numbers) => {
   return sum / numbers.length
 }
 
-console.log(`Media Aritm[etica Simples: ${media(1, 2, 3, 4, 5)}`);
-
+console.log(`Media Aritmetica Simples: ${media(1, 2, 3, 4, 5)}`);
 
 
 const mediaPonderada = (...entradas) => {
