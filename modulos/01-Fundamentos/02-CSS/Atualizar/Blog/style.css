@@ -1,0 +1,42 @@
+#dates{
+    color: #008080;
+    font-family: 'Roboto';
+    font-size:18px;
+    font-weight: bold;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+p{
+  font-family: Open Sans;
+}
+
+#bloco{
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 2%;
+}
+
+#corpo{
+  background-color:#fffafa; 
+  margin-top: 2%;
+  margin-left: 15% ;
+  margin-right: 15%;
+}
+
+header h1{
+  text-align: center;
+  color: #ffffff;
+  font-family: "Roboto";
+  background-color: #008080;
+  font-size: 50px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+
+}
+
